@@ -14,4 +14,5 @@ This project focuses on implementing a robust classification system for identify
  - [Source: https://snap.stanford.edu/data/]( http://cricsheet.org/ )
 ## Results
 
-(output.png)
+(https://github.com/chefwork24/Graph_Neural_Networks/blob/main/output.png)
+(https://github.com/chefwork24/Graph_Neural_Networks/blob/main/output_1.png)
