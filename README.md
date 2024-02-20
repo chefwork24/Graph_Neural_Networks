@@ -22,4 +22,4 @@ This project focuses on implementing a robust classification system for identify
  - [Source: https://snap.stanford.edu/data/]( http://cricsheet.org/ )
 
 ## ACKNOWLEDGMENTS
-  -[](https://awadrahman.medium.com/hands-on-graph-neural-networks-for-social-network-using-pytorch-30231c130b38)
+  -[https://awadrahman.medium.com/hands-on-graph-neural-networks-for-social-network-using-pytorch-30231c130b38](https://awadrahman.medium.com/hands-on-graph-neural-networks-for-social-network-using-pytorch-30231c130b38)
